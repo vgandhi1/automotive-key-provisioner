@@ -1,3 +1,5 @@
+> **⚠️ Archived (2026-06-28)** — Folded into [**automotive-ota-security**](https://github.com/vgandhi1/automotive-ota-security). See [ARCHIVED.md](./ARCHIVED.md).
+
 # Automotive Key Provisioner
 
 A Python simulation of the factory-floor device provisioning pipeline used in connected vehicle manufacturing. Each vehicle receives a unique cryptographic identity — injected securely over **mutual TLS** — before leaving the production line. Implements the supply-chain security requirements of **UNECE WP.29/R155** and **ISO/SAE 21434**.
